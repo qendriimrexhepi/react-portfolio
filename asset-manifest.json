@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1c5ea839.css",
+    "main.js": "/portfolio/static/js/main.fb727d2d.js",
+    "static/media/5yjeGatimi.png": "/portfolio/static/media/5yjeGatimi.4876044dbdb7150153b5.png",
+    "static/media/movieticketbooking.png": "/portfolio/static/media/movieticketbooking.d0ca82f40f07928e12f7.png",
+    "static/media/apple.png": "/portfolio/static/media/apple.9306d50533ba71736622.png",
+    "static/media/carRental.png": "/portfolio/static/media/carRental.5903e443553a7e6b0964.png",
+    "static/media/rentaCar.png": "/portfolio/static/media/rentaCar.509f783fe87ebee2c97e.png",
+    "static/media/projekti-SMP.png": "/portfolio/static/media/projekti-SMP.6b917efaf97dedfef3df.png",
+    "static/media/Resume.pdf": "/portfolio/static/media/Resume.f0fcfbccf193f01f63d6.pdf",
+    "static/media/aboutme-removebg.png": "/portfolio/static/media/aboutme-removebg.e2d174d6838a8f32dabf.png",
+    "static/media/qendrimi.jpeg": "/portfolio/static/media/qendrimi.04dae12acdcf87625914.jpeg",
+    "static/media/address.png": "/portfolio/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/portfolio/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/portfolio/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/portfolio/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/portfolio/index.html",
+    "main.1c5ea839.css.map": "/portfolio/static/css/main.1c5ea839.css.map",
+    "main.fb727d2d.js.map": "/portfolio/static/js/main.fb727d2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c5ea839.css",
+    "static/js/main.fb727d2d.js"
+  ]
+}
