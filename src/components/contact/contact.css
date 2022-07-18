@@ -2,23 +2,23 @@
   height: 70vh;
   position: relative;
 }
-  
+
 .c-bg {
   width: 20px;
   height: 100%;
-  background-color: #00bbf0;
+  background-color: #4b5156;
   position: absolute;
 }
-  
+
 .c-wrapper {
   padding: 50px;
   display: flex;
 }
-  
+
 .c-left {
   flex: 1;
 }
-  
+
 .c-right {
   flex: 1;
   display: flex;
@@ -26,12 +26,12 @@
   align-items: center;
   justify-content: center;
 }
-  
+
 .c-title {
   font-size: 60px;
   width: 80%;
 }
-  
+
 .c-info-item {
   display: flex;
   align-items: center;
@@ -39,21 +39,21 @@
   font-weight: 300;
   width: 70%;
 }
-  
+
 .c-icon {
   width: 30px;
   height: 30px;
   margin-right: 20px;
 }
-  
+
 .c-desc {
   font-weight: 200;
 }
-  
+
 form {
   margin-top: 20px;
 }
-  
+
 input {
   width: 50%;
   height: 50px;
@@ -63,7 +63,7 @@ input {
   font-size: 14px;
   padding-left: 10px;
 }
-  
+
 textarea {
   width: 100%;
   margin: 10px 0px;
@@ -74,7 +74,7 @@ textarea {
 button {
   border: none;
   padding: 15px;
-  background-color: #00bbf0;
+  background-color: #4b5156;
   color: white;
   font-weight: 500;
   cursor: pointer;
@@ -85,33 +85,33 @@ button {
     flex-direction: column;
     padding: 0px 50px;
   }
-  
+
   .c-title {
     font-size: 30px;
   }
-  
+
   .c-info-item {
     margin: 20px 0px;
     width: 100%;
   }
-  
+
   .c-desc {
     display: none;
   }
-  
+
   form {
     margin-top: 0px;
     display: flex;
     flex-wrap: wrap;
   }
-  
+
   input {
     width: 35%;
     height: 40px;
     margin: 10px;
     margin-left: 0;
   }
-  
+
   button {
     margin-top: 10px;
   }
