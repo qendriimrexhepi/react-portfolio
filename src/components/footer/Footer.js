@@ -6,9 +6,9 @@ import "./footer.css";
 
 const Footer = () => {
     return (
-        <div className="footer__container container">
-            <h1 className="footer__title">my social networks;</h1>
-            <ul className="footer__social">
+        <div className="footer-container">
+            <h1 className="footer-title">my social networks;</h1>
+            <ul className="footer-social">
                 <li>
                     <FaFacebook />
                 </li>
@@ -18,11 +18,7 @@ const Footer = () => {
                 <li>
                     <FaWhatsapp />
                 </li>
-
             </ul>
-            <div className="footer__copy">
-                &#169;QëndrimRexhepi
-            </div>
         </div>
     )
 }

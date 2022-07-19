@@ -331,14 +331,17 @@ h6 {
 }
 
 @media screen and (max-width: 400px) {
-  #preview-shadow {
-    max-width: 280px;
+  h1 {
+    font-size: 27px;
+  }
+  .preview-shadow {
+    max-width: 265px;
     height: 180px;
-    padding-left: 10px;
-    padding-top: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
   }
 
-  #preview {
-    width: 280px;
+  .preview {
+    width: 250px;
   }
 }
