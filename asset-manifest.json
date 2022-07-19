@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.1c5ea839.css",
-    "main.js": "/react-portfolio/static/js/main.8f66c339.js",
+    "main.css": "/react-portfolio/static/css/main.11c3a7a5.css",
+    "main.js": "/react-portfolio/static/js/main.595121bc.js",
     "static/media/5yjeGatimi.png": "/react-portfolio/static/media/5yjeGatimi.4876044dbdb7150153b5.png",
     "static/media/movieticketbooking.png": "/react-portfolio/static/media/movieticketbooking.d0ca82f40f07928e12f7.png",
     "static/media/apple.png": "/react-portfolio/static/media/apple.9306d50533ba71736622.png",
@@ -17,11 +17,11 @@
     "static/media/phone.png": "/react-portfolio/static/media/phone.d90a6d23cf5129d853bb.png",
     "static/media/moon.png": "/react-portfolio/static/media/moon.3bea3d398a25611d421b.png",
     "index.html": "/react-portfolio/index.html",
-    "main.1c5ea839.css.map": "/react-portfolio/static/css/main.1c5ea839.css.map",
-    "main.8f66c339.js.map": "/react-portfolio/static/js/main.8f66c339.js.map"
+    "main.11c3a7a5.css.map": "/react-portfolio/static/css/main.11c3a7a5.css.map",
+    "main.595121bc.js.map": "/react-portfolio/static/js/main.595121bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c5ea839.css",
-    "static/js/main.8f66c339.js"
+    "static/css/main.11c3a7a5.css",
+    "static/js/main.595121bc.js"
   ]
 }
