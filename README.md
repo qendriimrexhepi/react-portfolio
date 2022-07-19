@@ -1,8 +1,9 @@
 # Getting Started with Create React App
 
-Për ta shikuar protfolion time në kohë reale dhe të përditsuar njëkohësisht për qdo ndryshim që bëhet mund ta vizitoni edhe domainin e më poshtëm.
+Për ta shikuar protfolion time te cilen e kam punuar me React Js mund ta vizitoni edhe domainin e më poshtëm.
 
 Domain : https://qendriimrexhepi.github.io/react-portfolio/
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
